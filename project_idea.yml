@@ -1,0 +1,14 @@
+step:1 vedio creation without security
+
+step:2 authentication of the vedio
+
+step:3 user database (use of drizzle, postgress, Hono.js) along with payment integration
+Only paid users can acess the video.
+
+step:4 implementation of security (use of toen to set expiry)
+
+step:5 protections (DRM protections)
+-> No video downloading 
+-> No video recording
+-> video to only play on our platform
+
